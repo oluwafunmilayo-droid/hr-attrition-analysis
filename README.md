@@ -6,7 +6,7 @@ A full end-to-end analysis of employee attrition at a fictional company, using t
 
 ## The Business Question
 
-This analysis was framed around a fictional leadership audience — Head of People Analytics and CBO — trying to answer one question: **why are we losing people, and what can we do about it?** Every chart, query, and slide in this repo was built to answer that, not just describe the data.
+This analysis was framed around a fictional leadership audience — Head of People Analytics and CBO, trying to answer one question: **why are we losing people, and what can we do about it?** Every chart, query, and slide in this repo was built to answer that, not just describe the data.
 
 ## Project Files
 
