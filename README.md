@@ -6,10 +6,10 @@
 **Programme:** TechCrush Data Analytics Bootcamp
 
 ## Project Overview
-This project involved a full end-to-end analysis of employee attrition 
-at a fictional company using the IBM HR Analytics dataset. The goal 
+This project involved a full analysis of employee attrition 
+at TechCrush Corporation using the IBM HR Analytics dataset. The goal 
 was to identify why employees were leaving and what the business could 
-do about it — from raw data cleaning all the way to an interactive 
+do about it. From raw data cleaning all the way to an interactive 
 Power BI dashboard and a boardroom-ready report.
 
 **Headline Finding:** Employees are leaving at a **16.1% attrition 
@@ -19,8 +19,8 @@ stalled career growth show up again and again as the strongest drivers.
 ---
 
 ## The Business Question
-This analysis was framed around a fictional leadership audience — 
-Head of People Analytics and CBO — trying to answer one question: 
+This analysis was framed around a leadership audience — 
+Head of People Analytics and CBO which is trying to answer one question: 
 **why are we losing people, and what can we do about it?** Every 
 chart, query, and slide in this repo was built to answer that, 
 not just describe the data.
