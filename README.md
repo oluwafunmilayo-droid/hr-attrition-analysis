@@ -175,6 +175,6 @@ into data analytics, currently interning at DecodeLabs. This project
 was my capstone for the TechCrush Data Analytics Bootcamp and it is my way of proving i can take a messy dataset all the way to a 
 business-ready insight using the same tools analysts use on the job every day.
 
-- Portfolio: [bit.ly/ElizabethAtoyejePortfolio]
-- LinkedIn: [linkedin.com/in/atoyeje-elizabeth03]
+- Portfolio:(https://bit.ly/ElizabethAtoyejePortfolio)]
+- LinkedIn: [www.linkedin.com/in/atoyeje-elizabeth03]
 - Email: atoyejeelizabeth03@gmail.com
