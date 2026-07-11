@@ -46,8 +46,7 @@ not just describe the data.
 
 ## Tools Used
 - **Excel** data cleaning, pivot tables, COUNTIF/COUNTIFS analysis
-- **SQL** replicating core analytical questions as queries for 
-a portfolio-ready technical layer
+- **SQL** replicating core analytical questions as queries 
 - **Power BI** DAX measures, 3-page interactive dashboard, 
 - **Python** chart generation for the written report
 
@@ -76,7 +75,7 @@ analysis began, this ensured accurate aggregations and calculations.
 ## Key Findings
 
 ### 1. Overall Attrition Rate
-- **16.1% of employees** left the company — 237 out of 1,470
+- **16.1% of employees** left the company that is 237 out of 1,470
 - This rate is high enough to represent a significant business 
 and financial risk
 
