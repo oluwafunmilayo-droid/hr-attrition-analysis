@@ -19,7 +19,7 @@ stalled career growth show up again and again as the strongest drivers.
 ---
 
 ## The Business Question
-This analysis was framed around a leadership audience — 
+This analysis was framed around a leadership audience;
 Head of People Analytics and CBO which is trying to answer one question: 
 **why are we losing people, and what can we do about it?** Every 
 chart, query, and slide in this repo was built to answer that, 
@@ -45,12 +45,11 @@ not just describe the data.
 ---
 
 ## Tools Used
-- **Excel** — data cleaning, pivot tables, COUNTIF/COUNTIFS analysis
-- **SQL** — replicating core analytical questions as queries for 
+- **Excel** data cleaning, pivot tables, COUNTIF/COUNTIFS analysis
+- **SQL** replicating core analytical questions as queries for 
 a portfolio-ready technical layer
-- **Power BI** — DAX measures, 3-page interactive dashboard, 
-custom color palette (navy #1F4E79 / red #C00000)
-- **Python** — chart generation for the written report
+- **Power BI** DAX measures, 3-page interactive dashboard, 
+- **Python** chart generation for the written report
 
 ---
 
@@ -61,7 +60,7 @@ Dataset was checked and cleaned to ensure no duplicate employee
 records were included in the analysis.
 
 ### 2. Standardized Column Formats
-All columns were reviewed and formatted consistently — including 
+All columns were reviewed and formatted consistently, including 
 numeric fields, categorical variables and date formats.
 
 ### 3. Handled Missing Values
@@ -70,7 +69,7 @@ maintain data integrity across all 1,470 records.
 
 ### 4. Validated Data Types
 All columns were confirmed to have correct data types before 
-analysis began — ensuring accurate aggregations and calculations.
+analysis began, this ensured accurate aggregations and calculations.
 
 ---
 
@@ -82,27 +81,27 @@ analysis began — ensuring accurate aggregations and calculations.
 and financial risk
 
 ### 2. Overtime is a Major Driver
-- Employees who work overtime leave at a noticeably higher rate 
+Employees who work overtime leave at a noticeably higher rate 
 than those who do not
 - Overtime appears repeatedly as one of the strongest predictors 
 of attrition across departments
 
 ### 3. Job Satisfaction and Work-Life Balance
-- Lower job satisfaction ratings are strongly linked to higher 
+Lower job satisfaction ratings are strongly linked to higher 
 attrition risk
-- Employees rating their work-life balance poorly are significantly 
+Employees rating their work-life balance poorly are significantly 
 more likely to leave
 
 ### 4. Role and Department Concentration
-- Certain job roles and departments carry disproportionately higher 
+ Certain job roles and departments carry disproportionately higher 
 attrition than others
-- This concentration suggests targeted interventions are more 
+This concentration suggests targeted interventions are more 
 effective than company-wide policies
 
 ### 5. Career Stagnation
-- Longer time since last promotion shows up consistently as a 
+Longer time since last promotion shows up consistently as a 
 risk factor alongside pay
-- Employees who feel their careers have stalled are more likely 
+Employees who feel their careers have stalled are more likely 
 to seek opportunities elsewhere
 
 ---
@@ -126,22 +125,22 @@ in Power BI Desktop to interact with it directly.
 
 ## Recommendations
 
-1. **Address overtime policies** — Implement workload monitoring 
+1. **Address overtime policies** Implement workload monitoring 
 and compensatory time off to reduce burnout among overtime workers.
 
-2. **Improve job satisfaction** — Regular pulse surveys and 
+2. **Improve job satisfaction** Regular pulse surveys and 
 manager check-ins can identify dissatisfaction early before 
 it becomes attrition.
 
-3. **Accelerate career progression** — Create clear promotion 
+3. **Accelerate career progression** Create clear promotion 
 timelines and development plans especially for roles with 
 high attrition rates.
 
-4. **Target high-risk departments** — Focus retention programs 
+4. **Target high-risk departments** Focus retention programs 
 on the specific roles and departments showing disproportionate 
 attrition rather than applying blanket policies.
 
-5. **Review compensation** — Pay competitiveness combined with 
+5. **Review compensation** Pay competitiveness combined with 
 career stagnation is a double attrition risk that needs 
 addressing simultaneously.
 
